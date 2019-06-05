@@ -1,17 +1,22 @@
 ,text,utterance__document__date,utterance__document__parlperiod__n,utterance__document__sitting,utterance__id,comments,further comments,marker
-0,wrong speaker,1952-01-09,1,182,2735250,text error,dot after party before colon in text ,"Dr. Henle (CDU).:, Dr. Preusker (FDP), Berichterstatter:"
-1,procedural,1959-01-29,3,59,2678761,implementation in parser needed,,Frage 4 lautet:
-2,question,1963-02-13,4,60,2643868,,,Loritz (Fraktionslos):
-3,question,1966-09-21,5,57,2597062,,,
-4,wrong speaker,1968-11-13,5,194,2624226,,,
-5,end not correct,1969-02-26,5,218,2628645,,,
-6,question,1971-11-04,6,148,2577070,,,
-7,end not correct,1971-11-04,6,148,2577070,,,
-8,question,1975-12-11,7,208,2539959,,,
-9,question,1977-11-24,8,58,2457913,,,
-10,end not correct,1987-06-25,11,20,2173533,,,
-11,speaker identified correctly?,1987-12-11,11,50,2179849,,,
-12,wrong speaker,1990-02-15,11,197,2214236,,,
-13,end not identified correctly,1991-11-27,12,60,2132004,,,
-14,wrong speaker,1991-11-27,12,60,2132004,,,
-15,beginning not correct?,1993-02-10,12,139,2146830,,,
+,wrong speaker,1952-01-09,1,182,2735250,,,Dr. Schöne (SPD):
+,wrong speaker,1952-01-09,1,182,2735249,,,"Dr. Preusker (FDP), Berichterstatter:"
+,wrong speaker,1952-01-09,1,182,2735244,text error,dot after party before colon in text ,Dr. Henle (CDU).:
+,procedural,1959-01-29,3,59,2678761,,,
+,wrong speaker,1959-01-29,3,59,2678765,,,"Dr. Dr. h. c. Erhard, Bundesminister für Wirtschaft:"
+,question,1963-02-13,4,60,2643868,,,Loritz (Fraktionslos):
+,question,1966-09-21,5,57,2597062,,,
+,wrong speaker,1968-11-13,5,194,2624225,,,Ertl (FDP) :
+,wrong speaker,1968-11-13,5,194,2624226,,,Frau Kurlbaum-Beyer (SPD) :
+,end not correct,1969-02-26,5,218,2628645,wrong speaker?,,Vizepräsident Scheel:
+,question,1971-11-04,6,148,2577070,wrong speaker?,,"Rosenthal, Parlamentarischer Staatssekretär beim Bundesminister für Wirtschaft. und Finanzen:"
+,end not correct,1971-11-04,6,148,2577070,?,,
+,question,1975-12-11,7,208,2539959,,,
+,question,1977-11-24,8,58,2457913,,,
+,end not correct,1987-06-25,11,20,2173533,wrong speaker?,,Stücklen:
+,speaker identified correctly?,1987-12-11,11,50,2179849,parsing error,Günther Einert – minister in NRW,
+,wrong speaker,1990-02-15,11,197,2214236,,,"Dr. Riesenhuber, Bundesminister für Forschung und Technologie:"
+,end not identified correctly,1991-11-27,12,60,2132004,,,
+,wrong speaker,1991-11-27,12,60,2132004,,,Werner Schulz (Berlin) (Bündnis 90/GRÜNE):
+,wrong speaker,1991-11-27,12,60,2132005,,,Wolfgang Thierse (SPD) :
+,beginning not correct?,1993-02-10,12,139,2146830,new parser not run,fixed,
