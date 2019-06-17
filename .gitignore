@@ -108,4 +108,5 @@ dtm-output*
 dtm-input*
 plots/
 topic_correlations/
+topic_comparison/*
 
