@@ -107,6 +107,7 @@ venv.bak/
 dtm-output*
 dtm-input*
 plots/
-topic_correlations/
+topic_analysis_*
 topic_comparison/
 data/
+tsne_results/
