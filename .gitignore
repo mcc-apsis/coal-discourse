@@ -111,3 +111,6 @@ topic_analysis_*
 topic_comparison/
 data/
 tsne_results/
+excel/
+SentiWS/
+
